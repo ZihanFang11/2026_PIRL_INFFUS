@@ -1,0 +1,24 @@
+
+3sources:
+   layer: 24
+   beta: 1
+emotions:
+  layer: 18
+  beta: 10
+MIRFlickr_3view:
+  layer: 18
+  beta: 1
+
+corel5k_six_view:
+   layer: 24
+   beta: 10
+
+VOC07_3view:
+  layer: 24
+  beta: 1
+iaprtc12_six_view:
+   layer: 23
+   beta: 10
+
+
+
