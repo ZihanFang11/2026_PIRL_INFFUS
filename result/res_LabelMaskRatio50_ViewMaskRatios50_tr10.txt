@@ -1,0 +1,23 @@
+
+
+llm:Qwen-2.5-14B-Instruct  beta:10  layer:23  val_ratio:0.1 train_ratio:0.1 mask_view_ratio: 0.5 LabelMaskRatio:0.5
+dataset: iaprtc12_six_view 1-RL: 84.67 (0.17) AP: 27.22 (0.31) 1-OE: 39.96 (0.41) 1-Cov: 58.63 (0.40) AUC: 84.95 (0.14) Time: 619.09 (4.07)
+
+llm:Qwen-2.5-14B-Instruct val_ratio:0.1 train_ratio:0.1 mask_view_ratio: 0.5 LabelMaskRatio:0.5
+dataset: 3sources 1-RL: 57.02 (2.20) AP: 47.94 (1.51) 1-OE: 26.22 (2.13) 1-Cov: 61.65 (1.71) AUC: 65.88 (2.22) Time: 22.00 (10.73) 
+
+llm:Qwen-2.5-14B-Instruct val_ratio:0.1 train_ratio:0.1 mask_view_ratio: 0.5 LabelMaskRatio:0.5
+dataset: emotions 1-RL: 67.26 (1.73) AP: 66.42 (1.49) 1-OE: 53.19 (2.62) 1-Cov: 58.07 (1.18) AUC: 73.07 (1.50) Time: 10.33 (2.45) 
+
+llm:Qwen-2.5-14B-Instruct val_ratio:0.1 train_ratio:0.1 mask_view_ratio: 0.5 LabelMaskRatio:0.5
+dataset: MIRFlickr_3view 1-RL: 86.51 (0.12) AP: 72.40 (0.16) 1-OE: 87.06 (0.89) 1-Cov: 48.83 (0.51) AUC: 86.68 (0.13) Time: 42.25 (2.33) 
+
+llm:Qwen-2.5-14B-Instruct val_ratio:0.1 train_ratio:0.1 mask_view_ratio: 0.5 LabelMaskRatio:0.5
+dataset: VOC07_3view 1-RL: 82.86 (0.31) AP: 64.50 (0.27) 1-OE: 78.34 (0.53) 1-Cov: 66.46 (0.65) AUC: 83.44 (0.30) Time: 40.13 (1.71) 
+
+llm:Qwen-2.5-14B-Instruct val_ratio:0.1 train_ratio:0.1 mask_view_ratio: 0.5 LabelMaskRatio:0.5
+dataset: corel5k_six_view 1-RL: 83.63 (0.27) AP: 29.14 (0.39) 1-OE: 34.86 (0.81) 1-Cov: 64.13 (0.38) AUC: 84.01 (0.28) Time: 180.11 (4.99) 
+
+llm:Qwen-2.5-14B-Instruct val_ratio:0.1 train_ratio:0.1 mask_view_ratio: 0.5 LabelMaskRatio:0.5
+dataset: iaprtc12_six_view 1-RL: 84.67 (0.17) AP: 27.22 (0.31) 1-OE: 39.96 (0.41) 1-Cov: 58.63 (0.40) AUC: 84.95 (0.14) Time: 651.13 (6.11) 
+
