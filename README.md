@@ -1,5 +1,5 @@
 
-<h2 align="center"> <a href="">Towards Informed Incomplete Multi-View Multi-Label Learning via Prior Knowledge Integration
+<h2 align="center"> <a href="https://www.sciencedirect.com/science/article/pii/S1566253526007517">Towards Informed Incomplete Multi-View Multi-Label Learning via Prior Knowledge Integration
 </a></h2>
 
 
@@ -38,3 +38,18 @@ pretrain_models/Qwen-2.5-14B-Instruct/
    ```bash
    python main_sup.py
    ```
+
+
+## Reference
+
+If you find our work useful in your research, please consider citing:
+
+```
+@article{FANG2026104875,
+title = {Towards Informed Incomplete Multi-View Multi-Label Learning via Prior Knowledge Integration},
+journal = {Information Fusion},
+pages = {104875},
+year = {2026},
+author = {Zihan Fang and Shide Du and Zhihao Wu and Zhiling Cai and Lan Du and Shiping Wang},
+}
+```
