@@ -45,11 +45,12 @@ pretrain_models/Qwen-2.5-14B-Instruct/
 If you find our work useful in your research, please consider citing:
 
 ```
-@article{FANG2026104875,
-title = {Towards Informed Incomplete Multi-View Multi-Label Learning via Prior Knowledge Integration},
+@article{FANG2027104875,
+title = {Towards informed incomplete multi-view multi-label learning via prior knowledge integration},
 journal = {Information Fusion},
+volume = {139},
 pages = {104875},
-year = {2026},
-author = {Zihan Fang and Shide Du and Zhihao Wu and Zhiling Cai and Lan Du and Shiping Wang},
+year = {2027},
+author = {Zihan Fang and Shide Du and Zhihao Wu and Zhiling Cai and Lan Du and Shiping Wang}
 }
 ```
